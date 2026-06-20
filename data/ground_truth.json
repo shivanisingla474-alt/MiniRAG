@@ -1,0 +1,52 @@
+[
+  {
+    "category": "Payment Terms",
+    "question": "When is an invoice due after it is issued?",
+    "answer": "Invoices are due net 30 days from the invoice date unless otherwise specified in the Order Form."
+  },
+  {
+    "category": "Late Payment Penalty",
+    "question": "Is there a penalty for late payment?",
+    "answer": "Yes, overdue payments may incur interest at 1.5% per month or the maximum rate permitted by law."
+  },
+  {
+    "category": "Late Payment Handling",
+    "question": "What happens if payment is not made on time?",
+    "answer": "If payment is overdue, SFDC may charge interest, restrict future renewals, and suspend services if payment remains unpaid beyond the allowed period."
+  },
+  {
+    "category": "Taxes",
+    "question": "Who is responsible for taxes under the agreement?",
+    "answer": "The customer is responsible for all applicable taxes except those based on SFDC’s income, property, or employees."
+  },
+  {
+    "category": "Intellectual Property",
+    "question": "Who owns the intellectual property in the agreement?",
+    "answer": "SFDC and its licensors retain all rights, title, and interest in the services and related intellectual property."
+  },
+  {
+    "category": "Usage Rights",
+    "question": "What rights does the customer have over SFDC services and data?",
+    "answer": "The customer is granted limited rights to use the services but does not obtain ownership of the services or underlying intellectual property."
+  },
+  {
+    "category": "Feedback Rights",
+    "question": "Can SFDC use customer feedback?",
+    "answer": "Yes, SFDC receives a perpetual, irrevocable, royalty-free license to use customer feedback and suggestions."
+  },
+  {
+    "category": "Liability",
+    "question": "What is the limitation of liability under the agreement?",
+    "answer": "The total liability of each party is limited to the amount paid by the customer in the 12 months preceding the incident."
+  },
+  {
+    "category": "Damages",
+    "question": "Are consequential damages allowed under the agreement?",
+    "answer": "No, both parties are not liable for indirect, special, incidental, or consequential damages including loss of profits or revenue."
+  },
+  {
+    "category": "Termination",
+    "question": "What is the termination condition of the agreement?",
+    "answer": "The agreement can be terminated for material breach with 30 days notice or if a party becomes insolvent or enters bankruptcy proceedings."
+  }
+]

@@ -6,3 +6,4 @@ chroma_db/
 *.pyd
 *.so
 .env
+.streamlit/secrets.toml
